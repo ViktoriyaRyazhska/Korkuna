@@ -6,4 +6,6 @@ Roman Lv-617.C++
 Volodymyr Lv-628.SF
 Viktoria Lv-617.C++
 Nastya Lv-628.SF
+Yurii Lv-617.C++
+
 
