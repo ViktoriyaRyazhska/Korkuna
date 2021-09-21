@@ -5,4 +5,5 @@ Yura  Salesforce
 Roman Lv-617.C++
 Volodymyr Lv-628.SF
 Viktoria Lv-617.C++
+Yurii Lv-617.C++
 
