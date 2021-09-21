@@ -1,6 +1,3 @@
 Name Group
-Igor Lv-628.SF
-Eugene Lv-628.SF
-Roman Lv-617.C++
 Volodymyr Lv-628.SF
-Viktoria Lv-617.C++
+Don't remember what I'm supposed to write in here.
