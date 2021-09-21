@@ -2,3 +2,4 @@ Name Group
 Igor Lv-628.SF
 Eugene Lv-628.SF
 Roman Lv-617.C++
+Viktoria Lv-617.C++
