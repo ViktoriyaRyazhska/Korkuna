@@ -7,3 +7,5 @@ Volodymyr Lv-628.SF
 Viktoria Lv-617.C++
 Yurii Lv-617.C++
 
+Some interesting info about Yurii.
+
